@@ -2,7 +2,16 @@
 In this repo I'll share my daily code snippet of C++
 
 
-#### Day 1
+### My C++ Journey
 
-Setup C++ compiler, and write my first program "Hello world"
+- [x] User Input
+- [x] Data Types
+- [x] Operators
+- [x] Conditional Statements
+- [x] Loops
+- [x] Arrays
+- [x] Structures
+- [ ] Pointers
+- [ ] Functions
+- [ ] _other topics_
 
